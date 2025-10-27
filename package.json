@@ -1,8 +1,8 @@
 {
-  "name": "com.sun.csharp-extensions",
+  "name": "com.sun.csharp-utils",
   "version": "1.0.0",
-  "displayName": "CSharp.Extensions",
-  "description": "CSharp相关拓展",
+  "displayName": "CSharp.Utils",
+  "description": "CSharp\u76f8\u5173\u62d3\u5c55",
   "unity": "2019.1",
   "author": {
     "name": "sun"
